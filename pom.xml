@@ -29,6 +29,8 @@
 
     <jacoco.version>0.8.5</jacoco.version>
 
+    <foo.version>1.0</foo.version>
+
   </properties>
 
   <dependencies>
